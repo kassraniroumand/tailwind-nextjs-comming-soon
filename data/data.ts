@@ -4,7 +4,7 @@ const data = {
     sitetagline: "nullify project",
     siteurl: "https://github.com/baikaresandip",
     sitelogo: "",
-    title: "Coming Soon!",
+    title: "nullify project",
     description: "nullify project",
     newsletterheading: "Stay tuned for our live updates!",
     copyrightText: `Copyright © ${currentYear} | Design and Developed By &nbsp;<a target="_blank" class="no-underline md:underline" href="https://github.com/baikaresandip">Baikare Sandip</a>`,
